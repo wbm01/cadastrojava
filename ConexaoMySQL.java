@@ -1,5 +1,3 @@
-//MUDE AQUI E COLOQUE O PACOTE DE ACORDO COM O SEU PROJETO
-//DICA: OLHE O PACKAGE QUE OUTRA CLASSE DO SEU PROJETO EST? E COLOQUE O MESMO!
 package cadastrojava;
 
 //Classes necess�rias para uso de Banco de dados //
